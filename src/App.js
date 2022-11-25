@@ -1,11 +1,11 @@
 import './App.css';
-import Follow from './components/Follow';
+import Eye from './components/eye/Eye';
+
 
 function App() {
   return (
     <div className="App">
-      <Follow />
-    
+      <Eye />
     </div>
   );
 }

@@ -1,0 +1,27 @@
+.eyeContainer{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+
+.whitePart{
+    background-color: white;
+    padding: 50px;
+    width: 50%;
+    height: 50%;
+    border-radius: 75% 0;
+    transform: rotate(45deg);
+
+
+}
+
+.blackPart{
+
+
+}
